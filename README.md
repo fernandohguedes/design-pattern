@@ -13,6 +13,7 @@
  
 
 ###Padrões de projeto criacionais (Creational Design Patterns)
+
   - FACTORY METHOD;
   - ABSTRACT FACTORY;
   - BUILDER;
@@ -20,6 +21,7 @@
   - SINGLETON;
 
 ###Padrões de projeto estruturais (Structural Design Patterns)
+
   - ADAPTER;
   - BRIDGE;
   - COMPOSITE;
@@ -29,6 +31,7 @@
   - PROXY;
 
 ###Padrões de projeto comportamentais (Behavioral Design Patterns)
+
   - CHAIN OF RESPONSABILITY;
   - COMMAND;
   - ITERATOR;
