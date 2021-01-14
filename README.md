@@ -12,7 +12,7 @@
 # Tipos de Design Pattern:
  
 
-###Padrões de projeto criacionais (Creational Design Patterns)
+- Padrões de projeto criacionais (Creational Design Patterns)
 
   - FACTORY METHOD;
   - ABSTRACT FACTORY;
@@ -20,7 +20,7 @@
   - PROTOTYPE;
   - SINGLETON;
 
-###Padrões de projeto estruturais (Structural Design Patterns)
+- Padrões de projeto estruturais (Structural Design Patterns)
 
   - ADAPTER;
   - BRIDGE;
@@ -30,7 +30,7 @@
   - FLYWEIGHT;
   - PROXY;
 
-###Padrões de projeto comportamentais (Behavioral Design Patterns)
+Padrões de projeto comportamentais (Behavioral Design Patterns)
 
   - CHAIN OF RESPONSABILITY;
   - COMMAND;
